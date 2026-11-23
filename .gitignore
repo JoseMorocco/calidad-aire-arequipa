@@ -1,0 +1,23 @@
+﻿# MATLAB
+*.asv
+*.m~
+*.mex*
+*.slxc
+slprj/
+codegen/
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Documentos externos al repositorio de codigo
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
